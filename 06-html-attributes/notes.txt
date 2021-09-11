@@ -1,0 +1,18 @@
+1. HTML Attributes
+
+Attributes provides extra information to HTML elements
+It is added at the start tag section of an element.
+
+2. Anchor  tag, title
+Anchor or <a> tag is used to add links to a page. Which can be used to navigate to 
+another page.
+
+href attribute for anchor tag specifies the link or the destination url. 
+3. img tag , width, height, alt
+<img> tag is used to add images to web pages. 
+src attirbute is used to provide the path of an image.
+Paths can be relative url or full url. 
+
+4. style
+
+We can use style attribute to style html elements.
