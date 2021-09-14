@@ -1,0 +1,7 @@
+HTML Lists
+List is used to group a set of related items.
+
+There are three kinds of Lists
+1. unordered Lists(ul)
+2. ordered lists (ol)
+3. Description(dl)
